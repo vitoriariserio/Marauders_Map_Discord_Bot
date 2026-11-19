@@ -33,8 +33,8 @@ O bot utiliza personagens, professores e locais conhecidos da escola para gerar 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/MARAUDERS_MAP_BOT.git
-cd MARAUDERS_MAP_BOT
+git clone https://github.com/vitoriariserio/Marauders_Map_Discord_Bot.git
+cd Marauders_Map_Discord_Bot
 ```
 
 ### 2. Crie um ambiente virtual
