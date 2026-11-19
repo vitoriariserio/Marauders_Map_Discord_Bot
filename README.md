@@ -1,6 +1,5 @@
 
 
-
 # **The Marauder's Map Discord Bot**
 
 > *I solemnly swear that I am up to no good.*
@@ -106,6 +105,12 @@ As permissões necessárias para o funcionamento básico são:
 Este projeto foi desenvolvido como uma experiência prática de programação em Python e integração com a API do Discord.
 
 A ideia é explorar comandos, eventos, tratamento de erros, seleção aleatória de dados e outras funcionalidades oferecidas pela biblioteca discord.py com algo que sou apaixonada: o universo de Harry Potter!
+
+---
+| Demonstração comando .professores | Demonstração comando .alunos |
+|:---:|:---:|
+| <img width="1458" height="683" alt="image" src="https://github.com/user-attachments/assets/59f4bc7e-b898-4dca-b1bf-6c3cf7dbbf63" /> |<img width="1591" height="698" alt="image" src="https://github.com/user-attachments/assets/0cb2fafe-9630-4691-b4aa-1cf1615ed4e1" />
+
 
 ---
 
