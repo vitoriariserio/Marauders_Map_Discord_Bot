@@ -111,8 +111,16 @@ A ideia é explorar comandos, eventos, tratamento de erros, seleção aleatória
 |:---:|:---:|
 | <img width="1458" height="683" alt="image" src="https://github.com/user-attachments/assets/59f4bc7e-b898-4dca-b1bf-6c3cf7dbbf63" /> |<img width="1591" height="698" alt="image" src="https://github.com/user-attachments/assets/0cb2fafe-9630-4691-b4aa-1cf1615ed4e1" />
 
-
 ---
 
+## 🔒 | Disclaimer
+
+Este é um projeto independente, desenvolvido por uma fã e inspirado no universo de Harry Potter, sem qualquer vínculo oficial com J.K. Rowling, Warner Bros. ou seus representantes.
+
+Todos os personagens, nomes, lugares e demais elementos pertencentes ao universo de Harry Potter são de propriedade de seus respectivos titulares de direitos autorais e marcas registradas.
+
+O projeto possui finalidade exclusivamente educacional e não comercial. Não há intenção de reivindicar propriedade sobre qualquer material original ou infringir direitos de terceiros.
+
+---
 > *Mischief managed.*
 
